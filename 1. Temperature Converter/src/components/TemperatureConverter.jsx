@@ -32,7 +32,7 @@ const TemperatureConverter = () => {
   };
 
   return (
-    <div className="bg-[#242424]  flex justify-center items-center flex-col h-[500px]">
+    <div className=" flex justify-center items-center flex-col h-[500px]">
       <h1 className="text-white text-4xl font-semibold">
         Temperature Converter
       </h1>
